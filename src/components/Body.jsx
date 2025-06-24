@@ -1,8 +1,7 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import Header from "./Global/Header.jsx"
-import HomePage
-import logger from "./HomePage/Body.jsx";
+import HomePage from "./HomePage/Body.jsx";
 import Login from "./Login/Body.jsx";
 import Register from "./Register/Body.jsx";
 import RoomListing from "./RoomListing/Body.jsx";
