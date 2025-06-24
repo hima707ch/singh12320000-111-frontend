@@ -13,11 +13,11 @@ const Hero = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="space-y-8 animate-fade-in-left">
             <h1 id="Hero_2" className="text-4xl md:text-6xl font-bold">
-              <span className="bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-200">Find Your Perfect</span>
-              <div className="animate-slide-up inline-block ml-3 text-white">Home</div>
+              <span className="bg-clip-text text-transparent bg-gradient-to-r from-white to-blue-200">Explore Luxurious Properties</span>
+              <div className="animate-slide-up inline-block ml-3 text-white">Across the Globe</div>
             </h1>
             <p id="Hero_3" className="text-xl text-blue-100 opacity-90">
-              Discover exceptional properties tailored to your lifestyle. Your dream home is just a click away.
+              Find your ideal home with exclusive offers on top properties.
             </p>
             <div id="Hero_4" className="flex space-x-4">
               <button className="bg-white text-blue-900 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition duration-300">
